@@ -2,6 +2,13 @@
 
 This is a simple web application that allows users to download TikTok videos by providing the video URL. It features a preview of the video thumbnail before the actual download.
 
+
+
+![image](https://github.com/user-attachments/assets/6d086231-f2ba-4709-a67e-0fba325ae498)
+
+
+
+
 ## Features
 
 *   Download TikTok videos without watermarks (where available).
@@ -32,7 +39,7 @@ Follow these steps to set up and run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-github-repo-url>
+git clone https://github.com/Kapaljetz666/tiktok-downloader
 cd tiktok-downloader
 ```
 
